@@ -23,7 +23,7 @@ Models: Logistic Regression, Decision Tree, K-Nearest Neighbors, Gaussian Naive 
 
 ## C. GitHub Repository Link
 
-[Insert public GitHub repository URL]
+https://github.com/onlineAV8or/Exoplanet_Classifier
 
 The repository contains the Streamlit app, requirements, labelled test CSV, saved model pipelines, training source code and notebooks.
 
